@@ -1,1 +1,48 @@
+#S3row1 
+{
+  position: relative;
+  width:100%;
+  height:55.4%;
+}
+#S3row2 
+{
+  position: relative;
+  width:100%;
+  height:44.6%;
+}
 
+.S3r1item1{
+  float:left;
+}
+
+.S3r1item2{
+  float:left;
+}
+
+.S3r1item3{
+  float:left;
+}
+
+.S3r1item4{
+  float:left;
+}
+
+.S3r1item5{
+  float:left;
+}
+
+.S3r1item6{
+  float:left;
+}
+
+.S3r1item7{
+  float:left;
+}
+
+.S3r1item8{
+  float:left;
+}
+
+.S3r1item9{
+  float:left;
+}
